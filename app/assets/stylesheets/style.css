@@ -8,6 +8,12 @@ body{
 .wrap{
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+
+
+.thumbnail {   /*personalizando las clase thumbnail de bootstrap*/
+  width: 200px;
+  height: 200px;
 
 }
 
